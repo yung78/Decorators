@@ -1,0 +1,4 @@
+
+[22.07.2022  10:23:44] Name - flat_generator_var1, arguments - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}, result - ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+[22.07.2022  10:23:44] Name - flat_generator_var2, arguments - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}, result - <generator object flat_generator_var2.<locals>.<genexpr> at 0x00000172659205F0>
+[22.07.2022  10:23:44] Name - flat_generator_var3, arguments - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}, result - <generator object flat_generator_var3 at 0x0000017265922180>
